@@ -3,6 +3,6 @@ User interface for live and recorded video
 
 ## Run user interface
 ```bash
-git clone 
-cd
+git clone https://github.com/Drwaish/objectcounting
+cd objectcountng
 ```
